@@ -1,5 +1,7 @@
 <?php
 
+require 'functions.php';
+
 $heading = 'Contact Us';
 $title = 'Contact';
 
